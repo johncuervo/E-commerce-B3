@@ -1,0 +1,36 @@
+nav .container .navbar-header a{
+  color: white;
+}
+
+nav .container .navbar-header a:hover{
+  color: grey;
+}
+
+.list-group li:hover{
+  background-color: rgba(109, 120, 120, 0.3);
+}
+
+nav .container .collapse a{
+  color: white;
+}
+
+nav .container .collapse a:hover{
+  color: grey;
+}
+
+.carousel{
+    margin-bottom: 3%;
+}
+
+.thumbnail:hover{
+  background-color: #F2F2F2;
+}
+
+@media (max-width: 991px){
+.buscador {
+    margin-bottom: 3%;
+    }
+.modal {
+    margin: 5% 10%;
+    }
+}
